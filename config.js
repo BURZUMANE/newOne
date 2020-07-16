@@ -1,0 +1,1 @@
+const URL = 'newsapi.org/v2/everything?apiKey=baf3b32ef95d4cd0803dcc5d7a5bf9b1&'
